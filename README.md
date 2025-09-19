@@ -2,7 +2,7 @@
 
 Hi, I'm **Shayan Hassan**, a **4th-semester Computer Science student at UET Peshawar**, passionate about **programming, problem-solving, and building real-world projects**.  
 I have strong skills in **C++**, **Java**, **Python**, and **SQL**, with a solid understanding of **Data Structures and Algorithms (DSA)** and **Object-Oriented Programming (OOP)**.  
-Currently, I’m also exploring **Data Science and Web Development** with **NumPy, Pandas, HTML, and CSS**. 🚀
+Currently, I’m also exploring **Data Science with **NumPy, Pandas, ML and Web Development** with  HTML, and CSS**. 🚀
 
 ---
 
