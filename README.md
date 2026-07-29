@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shayan Hassan</h1>
 
 <p align="center">
-  🤖 Machine Learning Engineer | Python • NumPy • Pandas • Scikit-learn • TensorFlow
+  🤖 Machine Learning Enthusiast | Python • NumPy • Pandas • Scikit-learn • TensorFlow
 </p>
 
 <p align="center">
-  Building intelligent systems through Machine Learning, Artificial Intelligence, and Data-Driven Solutions 🚀
+  Passionate about Machine Learning, Artificial Intelligence, and building intelligent solutions.
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 Hi, I'm **Shayan Hassan**, a **6th-semester Computer Science student at UET Peshawar**.
 
-I'm passionate about **Machine Learning**, **Artificial Intelligence**, and developing intelligent solutions that solve real-world problems. I enjoy transforming data into predictive models, implementing machine learning algorithms, and continuously improving my software development and problem-solving skills.
+I am passionate about **Machine Learning**, **Artificial Intelligence**, and solving real-world problems through data-driven solutions. I enjoy building machine learning models, working with data, and continuously improving my programming and problem-solving skills.
 
 ---
 
@@ -22,33 +22,33 @@ I'm passionate about **Machine Learning**, **Artificial Intelligence**, and deve
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-  <img src="https://numpy.org/images/logo.svg" width="80"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
+  <img src="https://numpy.org/images/logo.svg" width="70"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" width="70"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
 </p>
 
 ---
 
 ## 🚀 Skills
 
-- 🐍 Python Programming
+- 🐍 Python
 - 📊 NumPy & Pandas
 - 🤖 Machine Learning
 - ⚙️ Scikit-learn
 - 🧠 TensorFlow
-- 📈 Data Visualization (Matplotlib & Seaborn)
-- 🧹 Data Preprocessing & Feature Engineering
+- 📈 Matplotlib & Seaborn
+- 🧹 Data Preprocessing
 - 📊 Exploratory Data Analysis (EDA)
-- 🎯 Model Training & Evaluation
-- 🔍 Hyperparameter Tuning
+- 🎯 Feature Engineering
 - 📉 Regression & Classification
-- 🧩 Clustering & Unsupervised Learning
-- 🔄 Model Selection & Cross Validation
+- 🧩 Clustering
+- 📏 Model Evaluation
+- 🔄 Cross Validation
 - 📓 Jupyter Notebook
 - 🌿 Git & GitHub
 
@@ -56,13 +56,12 @@ I'm passionate about **Machine Learning**, **Artificial Intelligence**, and deve
 
 ## 🎯 Current Focus
 
-- Machine Learning Fundamentals
-- Supervised & Unsupervised Learning
+- Machine Learning
 - Deep Learning
 - Neural Networks
 - Model Optimization
-- Real-World Machine Learning Projects
-- Building an Industry-Level ML Portfolio
+- Real-World Projects
+- Building a Strong ML Portfolio
 
 ---
 
@@ -72,11 +71,9 @@ I'm passionate about **Machine Learning**, **Artificial Intelligence**, and deve
   <a href="https://www.linkedin.com/in/shayan-hassan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="https://github.com/Shayan1064" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
-
   <a href="mailto:shayanhassan059@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
@@ -84,7 +81,7 @@ I'm passionate about **Machine Learning**, **Artificial Intelligence**, and deve
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayan1064&show_icons=true&theme=tokyonight&hide_border=true"/>
