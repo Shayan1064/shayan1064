@@ -14,41 +14,44 @@
 
 Hi, I'm **Shayan Hassan**, a **6th-semester Computer Science student at UET Peshawar**.
 
-I am passionate about **Machine Learning**, **Artificial Intelligence**, and solving real-world problems through data-driven solutions. I enjoy building machine learning models, working with data, and continuously improving my programming and problem-solving skills.
+I am passionate about **Machine Learning**, **Artificial Intelligence**, and solving real-world problems through data-driven solutions. I enjoy building machine learning models, exploring AI technologies, and continuously improving my programming and problem-solving skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-  <img src="https://numpy.org/images/logo.svg" width="70"/>
-  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55"/>
-  <img src="https://matplotlib.org/_static/images/logo2.svg" width="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" alt="Python"/>
+  <img src="https://numpy.org/images/logo.svg" width="75" alt="NumPy"/>
+  <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80" alt="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" alt="Scikit-learn"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="55" alt="TensorFlow"/>
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="70" alt="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" alt="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="55" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" alt="GitHub"/>
 </p>
 
 ---
 
 ## 🚀 Skills
 
-- 🐍 Python
+- 🐍 Python Programming
 - 📊 NumPy & Pandas
 - 🤖 Machine Learning
 - ⚙️ Scikit-learn
 - 🧠 TensorFlow
-- 📈 Matplotlib & Seaborn
+- 📈 Data Visualization (Matplotlib & Seaborn)
 - 🧹 Data Preprocessing
-- 📊 Exploratory Data Analysis (EDA)
 - 🎯 Feature Engineering
-- 📉 Regression & Classification
+- 📊 Exploratory Data Analysis (EDA)
+- 📉 Regression
+- 📈 Classification
 - 🧩 Clustering
 - 📏 Model Evaluation
 - 🔄 Cross Validation
+- ⚡ Model Selection
 - 📓 Jupyter Notebook
 - 🌿 Git & GitHub
 
@@ -56,12 +59,13 @@ I am passionate about **Machine Learning**, **Artificial Intelligence**, and sol
 
 ## 🎯 Current Focus
 
-- Machine Learning
+- Machine Learning Fundamentals
+- Supervised Learning
+- Unsupervised Learning
 - Deep Learning
 - Neural Networks
-- Model Optimization
-- Real-World Projects
-- Building a Strong ML Portfolio
+- Real-World Machine Learning Projects
+- Building a Strong Machine Learning Portfolio
 
 ---
 
@@ -81,7 +85,7 @@ I am passionate about **Machine Learning**, **Artificial Intelligence**, and sol
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shayan1064&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -89,7 +93,7 @@ I am passionate about **Machine Learning**, **Artificial Intelligence**, and sol
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayan1064&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Shayan1064&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
