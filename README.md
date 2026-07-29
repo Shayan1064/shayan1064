@@ -1,28 +1,24 @@
 <h1 align="center">Hi 👋, I'm Shayan Hassan</h1>
 
 <p align="center">
-  📊 Data Analyst | Python • Pandas • NumPy • SQL • Power BI
+  🤖 Machine Learning Enthusiast | Python • NumPy • Pandas • Scikit-learn • TensorFlow
 </p>
 
 ---
 
 <p align="center">
-  Turning raw data into meaningful insights 📈
+  Building intelligent solutions with Machine Learning & AI 🚀
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I’m <b>Shayan Hassan</b>, a <b>5th-semester Computer Science student at UET Peshawar</b>.
+Hi, I'm <b>Shayan Hassan</b>, a <b>5th-semester Computer Science student at UET Peshawar</b>.
 
-I specialize in <b>Data Analysis</b>, where I clean, process, and analyze data to extract useful insights that support decision-making.
+I'm passionate about <b>Machine Learning</b>, Artificial Intelligence, and solving real-world problems through data-driven solutions.
 
-Currently, I am focused on:
-- 📊 Real-world data analysis projects  
-- 🧹 Data cleaning & preprocessing  
-- 📈 Data visualization & storytelling  
-- 🧠 Improving analytical thinking  
+I enjoy building intelligent systems, implementing ML algorithms, and continuously improving my programming and problem-solving skills.
 
 ---
 
@@ -32,37 +28,40 @@ Currently, I am focused on:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
   <img src="https://numpy.org/images/logo.svg" width="80"/>
   <img src="https://pandas.pydata.org/static/img/pandas_white.svg" width="80"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="70"/>
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="90"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"/>
 </p>
 
 ---
 
-## 📊 What I Do
+## 🤖 What I Do
 
-- 🔍 Perform Exploratory Data Analysis (EDA)  
-- 🧹 Clean and preprocess messy datasets  
-- 📈 Create visualizations using Seaborn & Matplotlib  
-- 🗃️ Work with databases using SQL  
-- 📊 Build dashboards in Excel & Power BI  
+- 🧠 Build Machine Learning models
+- 📊 Analyze and preprocess datasets
+- 🧹 Clean and prepare data for ML
+- 📈 Visualize data using Matplotlib & Seaborn
+- ⚙️ Implement ML algorithms with Scikit-learn
+- 🚀 Develop real-world Machine Learning projects
 
 ---
 
 ## 🚀 Current Focus
 
-- Real-world data analysis projects  
-- Advanced Pandas & NumPy  
-- Data storytelling & visualization  
-- Building a strong data portfolio  
+- Machine Learning Fundamentals
+- Supervised & Unsupervised Learning
+- Feature Engineering & Model Evaluation
+- Deep Learning
+- Building a strong Machine Learning portfolio
 
 ---
 
 ## 📂 Featured Work (Coming Soon)
 
 <p align="center">
-  🚧 Uploading real-world data analysis projects...
+  🚧 Uploading Machine Learning projects and implementations...
 </p>
 
 ---
